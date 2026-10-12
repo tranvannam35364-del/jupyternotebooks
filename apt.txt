@@ -15,3 +15,7 @@ novnc
 websockify
 npm
 nodejs
+libasound2
+libgtk-3-0
+libdbus-glib-1-2
+libxt6
