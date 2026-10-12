@@ -1,7 +1,5 @@
-ffmpeg
 curl
 wget
 proot
-dialog
-openssh-server
 neofetch
+nano
