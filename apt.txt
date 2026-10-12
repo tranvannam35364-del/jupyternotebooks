@@ -4,3 +4,11 @@ neofetch
 nano
 python3-pip
 openssh-server
+xfce4
+xfce4-goodies
+tigervnc-common
+tigervnc-standalone-server
+tigervnc-viewer
+dbus-x11
+novnc
+websockify
