@@ -1,5 +1,5 @@
 curl
 wget
-proot
 neofetch
 nano
+python3-pip
