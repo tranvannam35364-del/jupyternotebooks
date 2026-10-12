@@ -3,5 +3,4 @@ wget
 neofetch
 nano
 python3-pip
-qemu-system-x86
-cloud-image-utils
+openssh-server
