@@ -12,3 +12,5 @@ tigervnc-viewer
 dbus-x11
 novnc
 websockify
+npm
+nodejs
