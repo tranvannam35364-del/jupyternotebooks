@@ -9,6 +9,7 @@ xfce4-goodies
 tigervnc-common
 tigervnc-standalone-server
 tigervnc-viewer
+tigervnc-tools
 dbus-x11
 novnc
 websockify
